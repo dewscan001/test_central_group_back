@@ -2,7 +2,7 @@
 - `git clone https://github.com/dewscan001/employee-test-Changan.git`
 
 - `docker-compose up --build` << for product environment (use database: `db.sqlite3`) <br>
-or 
+or <br>
 - `python manage.py runserver` 
 
 And then you can access to website by `localhost:8000`
